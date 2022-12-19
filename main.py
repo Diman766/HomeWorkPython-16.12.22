@@ -3,3 +3,6 @@
 # Id // Имя Фамилия // номер телефона // должность // e-mail
 # (работа с csv файлом)
 
+import controller
+
+controller.run_work()
